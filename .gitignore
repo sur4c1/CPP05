@@ -1,0 +1,6 @@
+*.o
+*.a
+*.out
+*_shrubbery
+ex*/ex*
+.DS_Store
